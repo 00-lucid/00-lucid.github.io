@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: 남형진 블로그                          # the main title
 
-tagline: 반갑습니다!   # it will display as the sub-title
+tagline: 세상을 바꾸는 코드 한줄을 작성하고 싶은 평범한 개발자입니다   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   C#,
