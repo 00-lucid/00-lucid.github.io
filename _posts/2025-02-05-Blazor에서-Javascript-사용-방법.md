@@ -4,7 +4,7 @@ date: 2025-02-05 09:38:30 +0800
 categories: [Blazor, Javascript]
 tags: [usage]
 image:
-  path: 250205-1.png
+  path: /assets/250205-1.png
 ---
 
 ### 들어가기 앞서
