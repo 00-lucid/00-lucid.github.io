@@ -5,7 +5,6 @@ categories: [Blazor, Javascript]
 tags: [usage]
 image:
   path: 250205-1.png
-  alt: ai thumbnail
 ---
 
 ### 들어가기 앞서
