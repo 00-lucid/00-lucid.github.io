@@ -62,7 +62,7 @@ Blazor 컴포넌트는 위와 같은 생명주기를 가지고, 여기서 의심
 
 이후 아래와 같이 사용하면 됩니다.
 
-```razor
+```
   @code {
     public async Task OnScroll()
     {
