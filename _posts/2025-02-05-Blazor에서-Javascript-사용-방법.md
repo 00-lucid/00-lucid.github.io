@@ -36,7 +36,7 @@ Blazor 컴포넌트는 위와 같은 생명주기를 가지고, 여기서 의심
 이것을 우리는 OnAfterRender 오버라이딩을 통해 구현할 수 있습니다.
 (이 때 OnAfterRenderAsync로 오버라이딩하면 비동기 처리를 할 수 있다.)
 
-```
+```csharp
   @code {
       protected override async Task OnAfterRenderAsync()
       {
@@ -47,7 +47,7 @@ Blazor 컴포넌트는 위와 같은 생명주기를 가지고, 여기서 의심
 
 렌더링이 될 때마다 가져오면 안되니까 주어지는 파라미터를 통해 첫 렌더링일 때만 지정해줍니다.
 
-```
+```csharp
   @code {
       protected override async Task OnAfterRenderAsync(bool isFirstRender)
       {
@@ -62,7 +62,7 @@ Blazor 컴포넌트는 위와 같은 생명주기를 가지고, 여기서 의심
 
 이후 아래와 같이 사용하면 됩니다.
 
-```
+```csharp
   @code {
     public async Task OnScroll()
     {
