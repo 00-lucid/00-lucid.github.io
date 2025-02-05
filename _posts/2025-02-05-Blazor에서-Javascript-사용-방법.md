@@ -3,10 +3,9 @@ title: Blazor에서-JavaScript-사용-방법
 date: 2025-02-05 09:38:30 +0800
 categories: [Blazor, Javascript]
 tags: [usage]
----
-
----
-image: /assets/250205-1.png
+image:
+  path: 250205-1.png
+  alt: ai thumbnail
 ---
 
 ### 들어가기 앞서
