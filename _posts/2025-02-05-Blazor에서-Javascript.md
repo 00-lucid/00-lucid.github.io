@@ -1,5 +1,5 @@
 ---
-title: Blazor에서-JavaScript-사용-방법
+title: Blazor에서-JavaScript
 date: 2025-02-05 09:38:30 +0800
 categories: [Blazor, Javascript]
 tags: [usage]
