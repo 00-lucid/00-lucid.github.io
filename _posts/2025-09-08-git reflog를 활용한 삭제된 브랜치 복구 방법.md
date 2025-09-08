@@ -4,7 +4,7 @@ date: 2025-09-08 18:15:00 +0900
 categories: [Git, Troubleshooting]
 tags: [git, reflog, stash, branch, recovery]
 image:
-  path: /assets/img/git-flow-diagram.png
+  path: /assets/250314.png
 ---
 
 ## 들어가며
