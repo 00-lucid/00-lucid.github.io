@@ -4,7 +4,7 @@ date: 2025-09-09 17:42:15 +0900
 categories: [R&D, AI]
 tags: [연구노트, cnn, 비전검사, 딥러닝]
 image:
-  path: /assets/250909-1.png
+  path: /assets/250314.png
 ---
 
 ## 들어가며
