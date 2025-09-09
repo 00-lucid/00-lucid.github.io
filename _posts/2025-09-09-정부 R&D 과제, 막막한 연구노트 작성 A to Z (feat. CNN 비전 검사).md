@@ -1,8 +1,8 @@
 ---
-title: "정부 R&D 과제, 막막한 연구노트 작성 A to Z (feat. CNN 비전 검사)"
+title: 정부 R&D 과제, 막막한 연구노트 작성 A to Z (feat. CNN 비전 검사)
 date: 2025-09-09 17:42:15 +0900
 categories: [R&D, AI]
-tags: [연구노트, cnn, 비전검사, 딥러닝]
+tags: [research, cnn, vision, deeplearning]
 image:
   path: /assets/250314.png
 ---
